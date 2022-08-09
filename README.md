@@ -20,7 +20,7 @@
 
 ### **Perfil Profesional**
 
-Aprendiz en Desarrollo de software, Soy una persona autodidacta,con gran capacidad de aprendizaje y trabajo en equipo,en proceso de aprendizaje en bases de datos, automatizacion de sistemas y analisis de programacion y con actitud para aprender.
+Aprendiz en Desarrollo de software, Soy una persona autodidacta,con gran capacidad de aprendizaje y trabajo en equipo,en proceso de aprendizaje en bases de datos, automatizacion de sistemas y analisis de programacion, diseño orientada a objetos y con actitud para aprender.
 
 
 ### **Formación Académica**
