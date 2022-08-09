@@ -14,7 +14,7 @@
 ### **Redes Sociales**
 
 + Github: [ Yezid Perez ](https://github.com/Developeryezid)
-+ linkedin: [Yezid Eduardo Perez Pertuz](https://co.linkedin.com/yezid-pérez-pertuz)
++ linkedin: [Yezid Eduardo Perez Pertuz](https://www.linkedin.com/in/yezid-p%C3%A9rez-pertuz-99aba7234/)
 
 
 
