@@ -1,11 +1,13 @@
 # **Yezid Perez Pertuz**
 
- <img src="https://raw.githubusercontent.com/developeryezid/hojadevida/commit/c9746f7" style="width: 511px; height: 456px; position: center" >
+
+![me](https://raw.githubusercontent.com/Developeryezid/Hojadevida/main/yezid%20foto%203x4.jpg)
+
 
 ## **Informacion personal**
 
 
-+ fecha de nacimiento:23 abril 1996
++ Date of Birth:23 abril 1996
 + E-mail: perezyezid23@gmail.com
 + City : Barranquilla / colombia
 
@@ -23,11 +25,12 @@ Aprendiz en Desarrollo de software, Soy una persona autodidacta,con gran capacid
 
 ### **Formación Académica**
 
+| institucion                      |      Grado      |  finalizacion |
+|--------------------------------- |:---------------:|--------------:|
+| francisco de paula santander     |  Bachiller      | 2014 |
 
-| Institucion                          |Grado                |Año de finalizacion|
 
-------------------------------------- --------------------------------------
-| Inst.Edu Francisco de Paula Santander    | Bachiller academico       | 2014     |
+
 
 
 
@@ -45,8 +48,6 @@ Aprendiz en Desarrollo de software, Soy una persona autodidacta,con gran capacid
 + Ganas de aprender
 + Actitud para trabajar en equipo
 + Compromiso y responsabilidad en mis funciones.
-
-
 
 
 
