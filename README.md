@@ -1,6 +1,6 @@
 # **Yezid Perez Pertuz**
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
+ <img src="https://raw.githubusercontent.com/developeryezid/hojadevida/commit/c9746f7" style="width: 511px; height: 456px; position: center" >
 
 ## **Informacion personal**
 
