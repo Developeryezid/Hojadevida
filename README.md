@@ -4,26 +4,26 @@
 ![me](https://raw.githubusercontent.com/Developeryezid/Hojadevida/main/yezid%20foto%203x4.jpg)
 
 
-## **Informacion personal**
+## **personal information**
 
 
 + Date of Birth:23 abril 1996
 + E-mail: perezyezid23@gmail.com
 + City : Barranquilla / colombia
 -------------------------------------------------------
-### **Redes Sociales**
+### **social networks**
 
 + Github: [ Yezid Perez ](https://github.com/Developeryezid)
 + linkedin: [Yezid Eduardo Perez Pertuz](https://www.linkedin.com/in/yezid-p%C3%A9rez-pertuz-99aba7234/)
 
 
 _____________________________________________________
-### **Perfil Profesional**
+### **Professional profile**
 
 Aprendiz en Desarrollo de software, Soy una persona autodidacta,con gran capacidad de aprendizaje y trabajo en equipo,en proceso de aprendizaje en bases de datos, automatizacion de sistemas y analisis de programacion, diseño orientada a objetos y con actitud para aprender.
 
 
-### **Formación Académica**
+### **academic training**
 
 | institucion                      |      Grado      |  finalizacion |
 |--------------------------------- |:---------------:|--------------:|
@@ -34,15 +34,19 @@ Aprendiz en Desarrollo de software, Soy una persona autodidacta,con gran capacid
 
 
 
-### **Habilidades**
+### **skills**
 
-+ Idiomas
++ HTML : 50%
++ Css :  40%
++ Javascript : 20%
+
++ Languages
 
 + Ingles: A2
 
 
 
-### ***Otra Informacion***
+### ***another formation***
 
 + Proactivo
 + Ganas de aprender
