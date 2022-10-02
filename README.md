@@ -13,9 +13,9 @@
 -------------------------------------------------------
 ### **social networks**
 
-+ Github: [ Yezid Perez ](https://github.com/Developeryezid)
-+ linkedin: [Yezid Eduardo Perez Pertuz](https://www.linkedin.com/in/yezid-p%C3%A9rez-pertuz-99aba7234/)
-
++  Github:  Yezid Perez ](https://github.com/Developeryezid/)
++  linkedin: Yezid Eduardo Perez Pertuz](https://www.linkedin.com/in/yezid-p%C3%A9rez-pertuz-99aba7234/)
++  
 
 _____________________________________________________
 ### **Professional profile**
@@ -36,6 +36,7 @@ Aprendiz en Desarrollo de software, Soy una persona autodidacta,con gran capacid
 
 ### **skills**
 
+```javascript
 const Developeryezid = {
   code: [Javascript, Markdown, HTML, CSS, Python, Java],
   architecture: ["microservices", "event-driven", "design system pattern"],
@@ -43,6 +44,7 @@ const Developeryezid = {
  challenge: "I am doing the #100DaysOfCode challenge software final project for a financial company"
  challenge:  "practicing object oriented programming in DART, PYTHON"
 };
+```
 
 + Languages
 
