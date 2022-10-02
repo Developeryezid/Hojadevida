@@ -36,9 +36,13 @@ Aprendiz en Desarrollo de software, Soy una persona autodidacta,con gran capacid
 
 ### **skills**
 
-+ HTML : 50%
-+ Css :  40%
-+ Javascript : 20%
+const Developeryezid = {
+  code: [Javascript, Markdown, HTML, CSS, Python, Java],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+ 
+ challenge: "I am doing the #100DaysOfCode challenge software final project for a financial company"
+ challenge:  "practicing object oriented programming in DART, PYTHON"
+};
 
 + Languages
 
